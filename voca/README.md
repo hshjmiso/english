@@ -2,6 +2,8 @@
 
 ## 1주차
 * [2020-07-27](###2020-07-27)
+* [2020-07-28](###2020-07-28)
+
 ### 2020-07-27
 * fair - `형` 1.공평한 2.타당한 3.상당한 4.금발의 흰 피부의 `명` 박람회
   * Educational opportunities should be fair to all.
@@ -43,3 +45,41 @@
 * approach - `동` 접근하다. 다가가다[오다] `명` 접근(법)
   * The time is approaching when I should submit the report.
   * ap(~에) + proach(가까이) -> ~에 가까이 가다
+
+### 2020-07-28
+* nevertheless - `부` 그럼에도 불구하고 (`유` nonetheless)
+  * He went deaf; nevertheless, he kept writing music.
+* reliable - `형` 믿을 수 있는, 확실한 (`유` dependable)
+  * It is a little expensive, but it is reliable.
+  * rely - `동` 의지하다, 믿다.
+  * reliance - `명` 의존, 의지
+* promote - `동` 1.증진[촉진]하다 2.승진시키다 3.홍보하다
+  * This herb promotes digestion.
+  * He was promoted to full professor.
+  * We promoted the product through TV ads.
+  * promotion - `명` 1.승진 2.판촉, 홍보
+* adjust - `동` 1.적응하다 (`유` adapt) 2.조정하다, 맞추다
+  * Children are better at adjusting than adults.
+  * adjustment - `명` 1.조정 2.적응
+  * ad(~에) + just(올바른) -> ~의 (목적에) 맞게 하다, 바로잡다
+* predict - `동` 예언하다, 예측하다
+  * No social scientist can accurately predict the future.
+  * predictable - `형` 예측할 수 있는
+  * prediction - `명` 예언, 예측
+* install - `동` 설치하다, 설비하다
+  * The city has a plan to install new signs.
+  * installation - `명` 1.설치, 설비 2.장치
+  * in(안에) + stall(놓다) -> (어떤 장소) 안에 놓다
+* alternative - `명` 대안, 선택 가능한 것 `형` 대체 가능한, 대안이 되는
+  * Do you have any alternative plans if rejected?
+  * alternate - `형` 1.번갈아 나오는 2.대안의 `동` 번갈아 나오다
+  * alter(다른) + (n)ative(형용사형 접미사) -> 다른 것의
+* variable - `형` 변하기 쉬운, 변덕스러운
+  * The English are familiar with variable weather conditions.
+  * vary - `동` 1.바꾸다 2.다르다
+  * variation - `명` 1.변화 2.변형
+  * variety - `명` 다양(성), 변화(가 많음)
+* various - `형` 여러 가지의, 다양한
+  * The store has various styles of furniture.
+* varied - `형` 가지각색의
+  * Alex has lived a varied life so far.
